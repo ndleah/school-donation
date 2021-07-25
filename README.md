@@ -1,8 +1,7 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/nduongthucanh)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/nduongthucanh?tab=repositories)
-
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ndleah)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ndleah?tab=repositories)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
@@ -31,12 +30,10 @@ Public data set can be found here:: https://www.kaggle.com/hanselhansel/donorsch
 
 ## 🛠️ Requirement
 
-
 ```python
 !pip install chart_studio
 !pip install matplotlib
 ```
-
 
 ## 📊 Data Visualization
 
@@ -45,7 +42,6 @@ Public data set can be found here:: https://www.kaggle.com/hanselhansel/donorsch
 **Which 10 states have the most number of schools that opened projects to gather donations? Plot the data using bar plot.**
 
 ![png](IMG/s_involve.png)
-
 
 **In which states there are more donations done by donors.**
 
@@ -80,7 +76,6 @@ Public data set can be found here:: https://www.kaggle.com/hanselhansel/donorsch
 
 ![png](IMG/early.png)
 
-
 - States that fund projects later than others:
 
 ![png](IMG/late.png)
@@ -97,3 +92,4 @@ Give a ⭐️ if you like this project!
 ___________________________________
 
 <p>&copy; 2021 Leah Nguyen</p>
+
