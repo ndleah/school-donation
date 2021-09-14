@@ -6,7 +6,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-# School Donation Analysis
+# School Donation Analysis <img src=" https://thumbs.dreamstime.com/b/pixel-art-boy-girl-student-character-wearing-masks-188247062.jpg" width="120">
 
 ## 🛈 Background Information
 
@@ -39,46 +39,8 @@ Public data set can be found here:: https://www.kaggle.com/hanselhansel/donorsch
 
 * ### **Basic Analysis**
 
-**Which 10 states have the most number of schools that opened projects to gather donations? Plot the data using bar plot.**
+<img src="IMG/s_involve.png" width="30%"> <img src="IMG/donation_count.png" width="30%"> <img src="IMG/linear_model.png" width="30%"> <img src="IMG/output_69_0.png" width="30%"> <img src="IMG/output_73_0.png" width="30%"> <img src="IMG/output_77_0.png" width="30%"> <img src="IMG/donation_amount.png" width="30%"> <img src="IMG/early.png" width="30%"> <img src="IMG/late.png" width="30%">
 
-![png](IMG/s_involve.png)
-
-**In which states there are more donations done by donors.**
-
-![png](IMG/donation_count.png)
-    
-**Donation Vs. Project Relationship Scatter Plot**
-
-![png](IMG/linear_model.png)
-
-**Fit a linear model which will basically indicate the relationship between projects and donations.**
-
-![png](IMG/output_69_0.png)
-**How mant different project types exists?**
-
-![png](IMG/output_73_0.png)
-
-**How mant project subject category trees exists and Which ones attracted the most donations?**
-
-![png](IMG/output_77_0.png)
-
----
-
-* ### **Time Series Analysis**
-
-**What is the mean time that takes a project to be fully funded after posted and how it varies between states?**
-
-![png](IMG/donation_amount.png)
-
-**Which states are the best and which are the worst performing in terms of Average funding time (mean project fully funded time)**
-
-- States that fund projects earlier than others:
-
-![png](IMG/early.png)
-
-- States that fund projects later than others:
-
-![png](IMG/late.png)
 
 ## ✨ Contribution
 
